@@ -1,0 +1,22 @@
+
+h1{
+  padding: 15px;
+  color: white;
+  text-align: center;
+}
+.carrossel-caption h5{
+  font-size: 80px;
+  color: yellow;
+  text-shadow: 2px 2px 2px black;
+}
+
+h2{
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #303030;
+  font-weight: 600;
+}
+
+
+
+
